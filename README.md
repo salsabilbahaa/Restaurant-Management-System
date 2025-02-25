@@ -42,8 +42,10 @@ The **Restaurant Management System** is a console-based Java application that en
 - Introduce an admin panel for managing staff and advanced reporting.
 
 ## Class Diagram
+
 Below is the class diagram illustrating the structure of the Restaurant Management System:
-![Class Diagram](Resturant design.jpg)
+
+![Class Diagram](Resturant%20design.jpg)
 
 ## Author
 Salsabil Bahaa Eldin
